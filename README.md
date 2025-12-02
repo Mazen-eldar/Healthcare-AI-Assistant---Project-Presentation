@@ -1,3 +1,7 @@
+
+Please click here to view the presentation: https://www.canva.com/design/DAG6Lo2EtDA/j0aH2UaBa1jo4HG-YpKvNA/edit?utm_content=DAG6Lo2EtDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 # 🏥Healthcare AI Assistant – Backend System-----Project-Presentation
 
 A complete backend platform designed to modernize healthcare operations, streamline clinic onboarding, enable secure patient services, and integrate AI-powered assistance into the medical journey.
