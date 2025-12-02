@@ -2,13 +2,13 @@
 Please click here to view the presentation: https://www.canva.com/design/DAG6Lo2EtDA/j0aH2UaBa1jo4HG-YpKvNA/edit?utm_content=DAG6Lo2EtDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-# 🏥Healthcare AI Assistant – Backend System-----Project-Presentation
+# Healthcare AI Assistant – Backend System-----Project-Presentation
 
 A complete backend platform designed to modernize healthcare operations, streamline clinic onboarding, enable secure patient services, and integrate AI-powered assistance into the medical journey.
 
 ---
 
-## 📌 **Team**
+##  **Team**
 
 **Team Lead:** Mazen Ayman Magdy Hussin
 **Team Members:**
@@ -21,7 +21,7 @@ A complete backend platform designed to modernize healthcare operations, streaml
 
 ---
 
-## 🚨 **Problem Overview**
+##  **Problem Overview**
 
 Traditional healthcare systems suffer from:
 
@@ -34,7 +34,7 @@ Traditional healthcare systems suffer from:
 
 ---
 
-## 💡 **Our Solution**
+##  **Our Solution**
 
 A scalable, modular backend providing:
 
@@ -47,7 +47,7 @@ A scalable, modular backend providing:
 
 ---
 
-## 🛡️ **Authentication & Security**
+##  **Authentication & Security**
 
 Our auth module includes:
 
@@ -60,7 +60,7 @@ Our auth module includes:
 
 ---
 
-## 👥 **System Roles**
+##  **System Roles**
 
 * **System Admin** → Approves clinic requests & manages entire platform
 * **Clinic Admin** → Manages clinic after approval
@@ -70,7 +70,7 @@ Our auth module includes:
 
 ---
 
-## 🔁 **Core Process Flow**
+##  **Core Process Flow**
 
 1. Clinics submit registration request
 2. System Admin reviews & approves
@@ -84,7 +84,7 @@ Our auth module includes:
 
 ---
 
-## 🏥 **Clinic Management Capabilities**
+##  **Clinic Management Capabilities**
 
 Clinics can:
 
@@ -97,7 +97,7 @@ Clinics can:
 
 ---
 
-## 👨‍⚕️ **Doctor & Schedule Management**
+##  **Doctor & Schedule Management**
 
 * Add doctors with linked specialties
 * Create working schedules
@@ -107,7 +107,7 @@ Clinics can:
 
 ---
 
-## 🧑‍⚕️ **Patient Journey**
+## **Patient Journey**
 
 Patients can:
 
@@ -120,7 +120,7 @@ Patients can:
 
 ---
 
-## 🤖 **AI Integration**
+##  **AI Integration**
 
 Although the API layer is independent, the application includes a **local AI chatbot** integrated with LLMs to enhance patient experience.
 The chatbot supports:
@@ -132,7 +132,7 @@ The chatbot supports:
 
 ---
 
-## 🚀 **Future Enhancements**
+##  **Future Enhancements**
 
 * AI-Powered Appointment Booking
 * AI Triage & Medical Guidance
@@ -145,7 +145,7 @@ The chatbot supports:
 
 ---
 
-## 📈 **Operational Efficiency**
+##  **Operational Efficiency**
 
 Our system improves efficiency by:
 
@@ -157,7 +157,7 @@ Our system improves efficiency by:
 
 ---
 
-## 🎯 **Conclusion**
+##  **Conclusion**
 
 Healthcare AI Assistant delivers a smart, modern, and secure healthcare ecosystem that empowers clinics, enhances patient experiences, and allows scalable future expansion with AI-driven enhancements.
 
